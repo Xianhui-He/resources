@@ -16,3 +16,7 @@ I think it's cool to document and share some useful resources
 ![react](https://img.shields.io/badge/2022/10/19-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
 
 **[Wombo:](https://www.wombo.art/create)** a website with free online AI art
+
+![react](https://img.shields.io/badge/2022/10/20-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
+
+**[How to get PhD funding in the UK:](https://aidanhorner.blogspot.com/2022/10/how-to-get-phd-funding-in-uk.html)** a blog post from Aidan Horner
