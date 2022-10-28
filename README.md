@@ -24,3 +24,8 @@ I think it's cool to document and share some useful resources
 ![react](https://img.shields.io/badge/2022/10/25-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
 
 **[must-ask questions to any PhD advisor:](https://twitter.com/Michelle_Heck1/status/1584247043484454913)** some questions
+
+![react](https://img.shields.io/badge/2022/10/28-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
+
+**[How to write a great Statement of Purpose/Research:](https://twitter.com/RomanFeiman/status/1585700225280528385)** a thread of suggestions for SOP
+
