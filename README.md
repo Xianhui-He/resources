@@ -34,3 +34,7 @@ I think it's cool to document and share some useful resources
 **[A love story:](https://www.cc98.org/topic/5452739/1#1)** 18yrs of love: marriage, distortion, and change
 
 **[What if your child has ASD&ADHD:](https://bytedance.feishu.cn/docs/doccnfT03fFmxgPIe48CjVJQnZg#j2Jv3j)** he is an angel, and also a devil
+
+**[AND Lab Journal Club:](https://github.com/andlab-um/JC-Workshops/blob/main/Lab%20Journal%20Club.md)** Schedule in 2022
+
+**[Postle Lab Lab Meeting-Archival:](https://postlab.psych.wisc.edu/teaching/)** Important brand-new scientific findings in CogNeuro
