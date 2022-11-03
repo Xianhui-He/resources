@@ -29,3 +29,8 @@ I think it's cool to document and share some useful resources
 
 **[How to write a great Statement of Purpose/Research:](https://twitter.com/RomanFeiman/status/1585700225280528385)** a thread of suggestions for SOP
 
+![react](https://img.shields.io/badge/2022/11/03-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
+
+**[A love story:](https://www.cc98.org/topic/5452739/1#1)** 18yrs of love: marriage, distortion, and change
+
+**[What if your child has ASD&ADHD:](https://bytedance.feishu.cn/docs/doccnfT03fFmxgPIe48CjVJQnZg#j2Jv3j)** he is an angel, and also a devil
