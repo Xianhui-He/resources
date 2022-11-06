@@ -38,3 +38,8 @@ I think it's cool to document and share some useful resources
 **[AND Lab Journal Club:](https://github.com/andlab-um/JC-Workshops/blob/main/Lab%20Journal%20Club.md)** Important brand-new scientific findings in CompCogNeuro
 
 **[Postle Lab Lab Meeting-Archival:](https://postlab.psych.wisc.edu/teaching/)** Important brand-new scientific findings in CogNeuro
+
+![react](https://img.shields.io/badge/2022/11/06-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
+
+**[Debirdify:](pruvisto.org/debirdify/)** This website allows you to search the people you follow on Twitter for possible Mastodon/Fediverse accounts.
+
