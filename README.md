@@ -41,7 +41,7 @@ I think it's cool to document and share some useful resources
 
 ![react](https://img.shields.io/badge/2022/11/06-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
 
-**[Debirdify:](pruvisto.org/debirdify/)** This website allows you to search the people you follow on Twitter for possible Mastodon/Fediverse accounts.
+**[Debirdify:](https://pruvisto.org/debirdify)** This website allows you to search the people you follow on Twitter for possible Mastodon/Fediverse accounts.
 
 ![react](https://img.shields.io/badge/2022/11/07-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
 
