@@ -43,3 +43,7 @@ I think it's cool to document and share some useful resources
 
 **[Debirdify:](pruvisto.org/debirdify/)** This website allows you to search the people you follow on Twitter for possible Mastodon/Fediverse accounts.
 
+![react](https://img.shields.io/badge/2022/11/07-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
+
+**[Explainpaper:](www.explainpaper.com)** This website allows you to use AI to explain confusing text in an academic paper
+
