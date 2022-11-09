@@ -50,3 +50,6 @@ I think it's cool to document and share some useful resources
 ![react](https://img.shields.io/badge/2022/11/09-FEBEB0?style=for-the-badge&logo=&labelColor=3D5A5B) 
 
 **[Complete neural signal processing and analysis: Zero to hero:](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ)** 46 hours of video instruction signal processing
+
+**[MikexCohen's course:](https://sincxpress.com/)** MACHINE LEARNING AND STATISTICS, MATHEMATICS, SIGNAL PROCESSING, PYTHON CODING
+
